@@ -13,6 +13,5 @@ for i in range(10000):
 	 f.write(z)
 	 f.write('\n')
 	 
-	 
 
 f.close()
