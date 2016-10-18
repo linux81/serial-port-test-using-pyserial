@@ -14,7 +14,7 @@ def srd():
 	    b=a.replace('\n',"")
     
 	
-	    return long(b)
+	    return int(b)
 	    
 
 	
@@ -22,4 +22,3 @@ def srd():
 
 
 
-#line = ser.readline()
